@@ -1,7 +1,7 @@
 # MyProject
-### A Project on Notes Manager
+## A Project on Notes Manager
 
-#### Project Overview
+### Project Overview
 > - Online Notes Manager is a web application to manage notes provided by the
 students on the website, it can also make it easier for students to access and organize
 the reference materials provided by their respective subject teachers. It provides the
@@ -10,7 +10,6 @@ docx, jpg formats. It organizes notes and materials more conveniently by adding
 details of the notes or reference material submitted, these notes are not directly
 visible once uploaded but the admin first must approve the notes which then can be
 published later, these notes are then available for all users to view and access.
-
 > - In addition to this web application provides with option to customize user/
 teacher profile and their designations and about details in the profile section
 
