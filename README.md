@@ -1,5 +1,4 @@
-# MyProject - *Notes Manager*
-## A Project on Managing Notes
+# MyProject - **Notes Manager** [*A Project on Managing Notes*]
 
 ### Project Overview
 > - Online Notes Manager is a web application to manage notes provided by the
